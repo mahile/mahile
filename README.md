@@ -1,5 +1,11 @@
-# :dizzy: About Me:
-- :seedling: I’m currently learning **React**<br><br>- :dancers: I’m looking to collaborate on **Javascript**<br><br>- :handshake: I’m looking for help with **React**<br><b\<br>- :speech_balloon: Ask me about **Javascript,React**<br><br>- :mailbox: How to reach me **mahihone61@gmail.com**<br><<br>- :zap: Fun fact **maching movie a lot! :blush:**
+# ✨ About Me
+- 🌱 I’m currently learning **React**  
+- 👫 I’m looking to collaborate on **JavaScript**  
+- 🤝 I’m looking for help with **React**  
+- 💬 Ask me about **JavaScript, React**  
+- 📫 How to reach me: **mahihone61@gmail.com**  
+- ⚡ Fun fact: **I love watching movies a lot! 😄**
+
 
 
 ## 🌐 Socials:
