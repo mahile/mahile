@@ -1,5 +1,5 @@
 # :dizzy: About Me:
-- :seedling: I’m currently learning **React**<br><br>- :dancers: I’m looking to collaborate on **Javascript**<br><br>- :handshake: I’m looking for help with **React**<br><br><br>- :speech_balloon: Ask me about **Javascript,React**<br><br>- :mailbox: How to reach me **mahihone61@gmail.com**<br><br>- :page_facing_up: Know about my experiences [https://drive.google.com/file/d/1hByk_12NBUW3bKebEd0qvNvgOMUFI3LH/view?usp=sharing](https://drive.google.com/file/d/1hByk_12NBUW3bKebEd0qvNvgOMUFI3LH/view?usp=sharing)<br><br>- :zap: Fun fact **maching movie a lot! :blush:**
+- :seedling: I’m currently learning **React**<br><br>- :dancers: I’m looking to collaborate on **Javascript**<br><br>- :handshake: I’m looking for help with **React**<br><b\<br>- :speech_balloon: Ask me about **Javascript,React**<br><br>- :mailbox: How to reach me **mahihone61@gmail.com**<br><<br>- :zap: Fun fact **maching movie a lot! :blush:**
 
 
 ## 🌐 Socials:
